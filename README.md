@@ -44,7 +44,7 @@ pip install geopandas pandas matplotlib seaborn folium plotly shapely ipywidgets
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/india-climate-ecological-analysis.git
+git clone https://github.com/Spag98/india-climate-ecological-analysis.git
 cd india-climate-ecological-analysis
 ```
 
