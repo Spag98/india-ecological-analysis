@@ -16,13 +16,13 @@ The aim is to build a strong data storytelling portfolio showcasing geospatial a
 ```
 india-climate-ecological-analysis/
 │
-├── India_Climate_TreeCover_Analysis.ipynb   # Jupyter notebook with all code + markdown
-├── data/                                     # (Optional) Add samples if required
-├── maps/                                     # Saved plots, heatmaps, folium HTML
-├── README.md                                 # You're reading it
-├── LICENSE                                   # Creative Commons BY-NC 4.0
-├── .gitignore                                # Python & Jupyter ignores
-└── requirements.txt                          # Optional, for recreating environment
+├── India_Climate_TreeCover_Analysis.ipynb   
+├── data/                                     
+├── maps/                                     
+├── README.md                                 
+├── LICENSE                                   
+├── .gitignore                               
+└── requirements.txt             
 ```
 
 ---
@@ -108,6 +108,27 @@ The analysis supports these UN Sustainable Development Goals:
 * **SDG 6 & 2** – Implications for water stress and food systems under changing climates.
 
 ---
+
+
+[View biodiversity hotspot and protected areas folium map](maps/biodiversity_hotspots_protected_areas_in_India.html)
+
+  [View map for tree loss in biodiversity areas](maps/tree_loss_biodiversity_map.html)
+
+  [View Interactive Tree Loss Bar graph for each hotspot](maps/Annual_Tree_Cover_Loss_per_Biodiversity_Hotspots_animation.html)
+
+  [View Interactive Tree Loss Bar graph for each state encompassing global biodiversity hotspots](maps/tree_cover_loss_animation.html)
+  
+  [View tree loss in Indian States at 10% threshold](maps/compare_tree_loss_10_by_state.png)
+
+  [View tree loss at 15% threshold vs tree loss at 75% threshold](maps/compare_tree_loss_15_75.png)
+
+  [View line plot for tree loss in northeastern states at 10% threshold](maps/line_plot_tree_loss_10_northeast.png)
+
+  [View change in climate class area from 1901-2000](maps/climate_class_area_change_historical_data.png)
+
+  [View bar graph animation of climate class area change in Gangetic planes ](maps/climate_zone_animation.gif)
+
+
 
 ## License & Data Use Disclaimer
 
